@@ -1,3 +1,4 @@
 url='Русский'='https://rus-ege.sdamgia.ru'
 url='Математика'='https://math-ege.sdamgia.ru'
 url='Информатика'='https://inf-ege.sdamgia.ru'
+motivational_url='https://resheto.net/raznosti/75-motiviruyushchie-tsitaty'
